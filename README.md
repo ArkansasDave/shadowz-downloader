@@ -1,3 +1,5 @@
+### Downloader not updated and not functional
+
 # ShadowZ Downloader
 
 #### This is a downloader capable of downloading the video and subtitles from [ShadowZ](https://www.shadowz.fr/). **You do not need to have an account** .
